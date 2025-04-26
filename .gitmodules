@@ -1,0 +1,3 @@
+[submodule "RustSmartPointers_Lifetimes"]
+	path = RustSmartPointers_Lifetimes
+	url = git@github.com:KhodingNow/RustSmartPointers_Lifetimes.git
